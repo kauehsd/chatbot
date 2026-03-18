@@ -1,20 +1,20 @@
 {
-  "oi": "Olá! 😊 Como posso te ajudar hoje?",
-  "ola": "Olá! 😊 Como posso te ajudar hoje?",
-  "bom dia": "Bom dia! ☀️ Em que posso ajudar?",
-  "boa tarde": "Boa tarde! 😊 Precisa de ajuda?",
-  "boa noite": "Boa noite! 🌙 Como posso ajudar?",
+  "oi": "Olá! 😊 Somos uma loja de periféricos de TI. Como posso te ajudar hoje?",
+  "ola": "Olá! 😊 Precisa de ajuda com algum periférico?",
+  "bom dia": "Bom dia! ☀️ Procurando algum periférico hoje?",
+  "boa tarde": "Boa tarde! 😊 Posso te ajudar com teclados, mouses e mais.",
+  "boa noite": "Boa noite! 🌙 Como posso ajudar com nossos produtos de TI?",
 
-  "ajuda": "Posso te ajudar com pedidos, pagamento, frete, trocas e mais.",
-  "suporte": "Estou aqui para te ajudar! Me diga sua dúvida.",
-  "atendente": "No momento sou um assistente virtual, mas posso ajudar no que precisar.",
+  "ajuda": "Posso te ajudar com teclados, mouses, headsets, pagamentos e entregas.",
+  "suporte": "Estou aqui para te ajudar com periféricos e pedidos.",
+  "atendente": "Sou um assistente virtual especializado em periféricos de TI.",
 
   "horario": "Funcionamos das 8h às 18h de segunda a sábado.",
   "funcionamento": "Nosso horário é das 8h às 18h.",
   "abre": "Abrimos às 8h.",
   "fecha": "Fechamos às 18h.",
 
-  "pagamento": "Aceitamos PIX, cartão de crédito, débito e boleto.", 
+  "pagamento": "Aceitamos PIX, cartão de crédito, débito e boleto.",
   "pagar": "Você pode pagar via PIX, cartão ou boleto.",
   "formas": "Aceitamos diversas formas de pagamento como PIX e cartão.",
   "cartao": "Aceitamos cartões de crédito e débito.",
@@ -22,28 +22,35 @@
   "boleto": "Também aceitamos pagamento via boleto.",
 
   "frete": "O valor do frete depende da sua localização.",
-  "entrega": "Fazemos entregas em todo o Brasil.",
+  "entrega": "Fazemos entregas de periféricos para todo o Brasil.",
   "prazo": "O prazo varia entre 3 a 10 dias úteis.",
-  "envio": "Seu pedido será enviado após a confirmação do pagamento.",
+  "envio": "Seu pedido de periféricos será enviado após a confirmação do pagamento.",
 
-  "pedido": "Você pode consultar seu pedido informando o número.",
+  "pedido": "Você pode consultar seu pedido de periféricos informando o número.",
   "acompanhar": "Para acompanhar seu pedido, informe o código.",
   "codigo": "O código do pedido é necessário para consulta.",
   "status": "Informe seu número de pedido para verificar o status.",
 
   "troca": "Você pode solicitar troca em até 7 dias.",
   "devolucao": "Aceitamos devoluções dentro do prazo de 7 dias.",
-  "garantia": "Todos os produtos possuem garantia contra defeitos.",
+  "garantia": "Todos os periféricos possuem garantia contra defeitos.",
 
-  "produto": "Temos diversos produtos disponíveis em nosso catálogo.",
-  "produtos": "Oferecemos uma variedade de produtos de qualidade.",
-  "catalogo": "Consulte nosso catálogo para ver todas as opções.",
-  "estoque": "Nosso estoque é atualizado diariamente.",
+  "produto": "Temos teclados, mouses, headsets, monitores e outros periféricos.",
+  "produtos": "Oferecemos uma variedade de periféricos como teclados, mouses e headsets.",
+  "catalogo": "Nosso catálogo inclui diversos periféricos de TI.",
+  "estoque": "Nosso estoque de periféricos é atualizado diariamente.",
 
-  "preco": "Os preços variam de acordo com o produto.",
+  "teclado": "Temos teclados mecânicos e de membrana.",
+  "mouse": "Trabalhamos com mouses gamer e profissionais.",
+  "headset": "Temos headsets com ótima qualidade de áudio.",
+  "monitor": "Vendemos monitores de diversas marcas e tamanhos.",
+  "gamer": "Temos uma linha completa de periféricos gamer.",
+  "rgb": "Sim! Temos periféricos com iluminação RGB.",
+
+  "preco": "Os preços variam de acordo com o periférico.",
   "valor": "Cada produto possui um valor específico.",
-  "caro": "Temos opções para todos os bolsos.",
-  "barato": "Sim, temos produtos com ótimo custo-benefício.",
+  "caro": "Temos periféricos para todos os bolsos.",
+  "barato": "Temos opções com ótimo custo-benefício.",
 
   "localizacao": "Estamos localizados no centro da cidade.",
   "endereco": "Nosso endereço fica na região central.",
@@ -51,14 +58,15 @@
 
   "contato": "Você pode entrar em contato pelo número 99999-9999.",
   "telefone": "Nosso telefone é 99999-9999.",
-  "email": "Nosso email é contato@empresa.com",
+  "email": "Nosso email é contato@perifericos.com",
 
-  "promocao": "Temos promoções especiais disponíveis!",
-  "desconto": "Fique de olho nas nossas ofertas e descontos.",
-  "oferta": "Confira nossas ofertas no site.",
+  "promocao": "Temos promoções especiais em periféricos!",
+  "desconto": "Fique de olho nas ofertas de teclados, mouses e headsets.",
+  "oferta": "Confira nossas ofertas de periféricos no site.",
 
-  "site": "Você pode acessar nosso site para mais informações.",
-  "link": "Nosso site contém todos os detalhes dos produtos.",
+  "site": "Nosso site possui todos os periféricos disponíveis.",
+  "link": "Acesse nosso site para ver todos os produtos."
+}
 
   "obrigado": "Eu que agradeço! 😊",
   "valeu": "Por nada! Estou aqui pra ajudar 😄",
